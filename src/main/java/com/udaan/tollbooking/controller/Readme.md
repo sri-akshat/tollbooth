@@ -16,7 +16,5 @@ validating Vehicle{id=null, regNum='KA-03-MW-2341', type=FOURWHEELER}
 
 Validity true
 
-getSalesAmount
-
 Sale for TollBooth{id=1, number=1} --> 60.0
 
