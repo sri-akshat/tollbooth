@@ -1,4 +1,4 @@
-#Output of Application
+# Output of Application.java
 
 Created TollBooth{id=1, number=1}
 
